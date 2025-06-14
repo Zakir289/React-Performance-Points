@@ -134,15 +134,4 @@ Use ES module versions like `lodash-es`, `date-fns` for better dead-code elimina
 
 ---
 
-## Conclusion
-
-React performance is a layered approach:
-- Start small: Memoize, virtualize, debounce.
-- Measure frequently: Use Profiler & Lighthouse.
-- Scale wisely: Split code, cache smartly, and bundle carefully.
-
-Optimize only when necessary—measure before you fix.
-
----
-
 Happy optimizing!

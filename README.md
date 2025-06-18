@@ -132,15 +132,13 @@ Use ES module versions like `lodash-es`, `date-fns` for better dead-code elimina
 | Webpack Bundle Analyzer | Visualize bundle size |
 | Why Did You Render | Warn about unnecessary re-renders |
 
----
-
 Happy optimizing!
 
-
 ***
-
 ***
 # React-Performance for Class Based Components
+***
+
 
   Please go through React Performance part 1 as well. 
  

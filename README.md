@@ -137,8 +137,9 @@ Use ES module versions like `lodash-es`, `date-fns` for better dead-code elimina
 Happy optimizing!
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***
 
+***
 # React-Performance for Class Based Components
 
   Please go through React Performance part 1 as well. 
